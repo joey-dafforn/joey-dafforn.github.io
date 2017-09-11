@@ -1,8 +1,11 @@
-## Welcome to my website
+## Joey Dafforn
 
-You can use the [editor on GitHub](https://github.com/joey-dafforn/joey-dafforn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[LinkedIn](https://www.linkedin.com/in/joey-dafforn-0605b2126/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+[GitHub](https://github.com/joey-dafforn)
+
+[Resume](https://www.scribd.com/document/358545723/Joey-Dafforn-s-Resume)
 
 ### Markdown
 
