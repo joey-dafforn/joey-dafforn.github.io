@@ -10,7 +10,7 @@
 		position: relative;
 		border: solid 1px white;
 		border-radius: 100%;
-		-ms-behavior: url("css/ie/PIE.htc");
+		-ms-behavior: url("https://joey-dafforn.github.io/PIE.htc");
 	}
 
 		#header nav a:before {
@@ -20,7 +20,7 @@
 /* Footer */
 
 	#footer {
-		background-image: url("images/footer.png");
+		background-image: url("https://joey-dafforn.github.io/footer.png");
 		background-position: bottom left;
 		background-repeat: repeat-x;
 	}
